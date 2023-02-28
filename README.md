@@ -20,3 +20,6 @@
 - [x] Ensinar Quando Puder
 - [ ] Ser um Bom Líder
   
+---
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Pedrenri&theme=github">
