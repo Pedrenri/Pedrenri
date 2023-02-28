@@ -6,3 +6,11 @@
 - 📫 E-Mail para phenrigoncalves@gmail.com
 
 ---
+
+[Portfólio](www.pedrohenri.netlify.com)
+
+-[x] .HTML
+-[x] .CSS
+-[x] .JS
+-[x] .CS
+-[x] ReactJS
