@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @Pedrenri
-- 👀 I’m interested in coding, majorly backend
-- 🌱 I’m currently learning HTML, C#, JS, CSS, Python
-- 📫 E-Mail to phenrigoncalves@gmail.com
+👋 Olá, Meu Nome é Pedro Henri
 
-<!---
-Pedrenri/Pedrenri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🖥️ Interessado em Tecnologia
+- 👀 Focado em Back-End
+- 🌱 Aprendendo React, JQuery, Node e MongoDB
+- 📫 E-Mail para phenrigoncalves@gmail.com
