@@ -1,11 +1,17 @@
 # 👋 Olá, Meu Nome é Pedro Henri
 
-- 🖥️ Interessado em Tecnologia
+- 🖥️ Interessado em Tecnologia                                           
 - 👀 Focado em Back-End
-- 🌱 Aprendendo React, JQuery, Node e MongoDB
+- 🌱 Aprendendo React, JQuery, Node e MongoDB       
 - 📫 E-Mail para phenrigoncalves@gmail.com
 
-- 🧑‍💻 [Meu Site de Portfólio](https://pedrohenri.netlify.app/)
+- 🧑‍💻 [Meu Site de Portfólio](https://pedrohenri.netlify.app/) 
+
+
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedrenri&theme=dark">
+
+
 
 ---
 # 🧰 Linguagens e Ferramentas
@@ -16,5 +22,5 @@
 ---
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedrenri&theme=github_dark"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrenri&theme=dark">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedrenri&theme=dark">
+
 
