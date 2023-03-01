@@ -16,7 +16,7 @@
 ---
 # 🧰 Linguagens e Ferramentas
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,tailwind,py,figma,cs,ps,vscode,powershell,mysql,blender,linux,linkedin,discord,instagram&perline=50)](https://pedrohenri.netlify.app/)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,tailwind,py,figma,cs,vscode,powershell,mysql,ps,blender,linux,linkedin,discord,instagram&perline=50)](https://pedrohenri.netlify.app/)
 
 
 ---
