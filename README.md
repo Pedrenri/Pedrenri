@@ -2,7 +2,7 @@
 
 - 🖥️ Interessado em Tecnologia                                           
 - 👀 Focado em Back-End
-- 🌱 Atualmente Aprendendo ESNext     
+- 🌱 Atualmente Aprendendo Ajax    
 - 📫 E-Mail para phenrigoncalves@gmail.com
 
 - 🧑‍💻 [Meu Site de Portfólio](https://pedrohenri.netlify.app/) 
