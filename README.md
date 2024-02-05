@@ -2,7 +2,7 @@
 
 - 🖥️ Interessado em Tecnologia                                           
 - 👀 Focado em Back-End
-- 🌱 Atualmente Aprendendo: React Native  
+- 🌱 Atualmente Aprendendo: Laravel (php é uma bomba mas eu amo)
 - 📫 E-Mail para phenrigoncalves@gmail.com
 
 - 🧑‍💻 [Portfólio](https://pedrohenri.com.br/) 
