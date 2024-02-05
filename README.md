@@ -16,14 +16,8 @@
 ---
 # 🧰 Linguagens e Ferramentas
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,tailwind,py,figma,cs,vscode,powershell,mysql,ps,blender,linux,linkedin,discord,instagram&perline=50)](https://pedrohenri.netlify.app/)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,tailwind,nodejs,php,laravel,py,cs,mysql,mongodb&perline=50)](https://pedrohenri.netlify.app/)
 
 ---
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pedrenri&theme=github_dark">
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrenri&theme=dark">
-
-
