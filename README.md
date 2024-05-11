@@ -16,7 +16,7 @@
 ---
 # 🧰 Linguagens e Ferramentas
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,react,next,tailwind,nodejs,php,laravel,py,cs,mysql,mongodb,docker&perline=50)](https://pedrohenri.com.br/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,nodejs,php,laravel,py,cs,mysql,mongodb,docker&perline=50)](https://pedrohenri.com.br/)
 
 ---
 
