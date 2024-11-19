@@ -6,13 +6,6 @@
 - 📫 E-Mail para phenrigoncalves@gmail.com
 
 - 🧑‍💻 [Portfólio](https://pedrohenri.com.br/) 
-
-
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedrenri&theme=dark">
-
-
-
 ---
 # 🧰 Linguagens e Ferramentas
 
