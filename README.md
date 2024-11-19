@@ -6,7 +6,7 @@
 - 📫 E-Mail para phenrigoncalves@gmail.com
 
 - 🧑‍💻 [Portfólio](https://pedrohenri.com.br/) 
----
+
 # 🧰 Linguagens e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,tailwind,nodejs,php,laravel,py,mysql,mongodb,docker&perline=50)](https://pedrohenri.com.br/)
