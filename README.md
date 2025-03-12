@@ -2,7 +2,7 @@
 
 - 🖥️ Interessado em Tecnologia                                           
 - 👀 Focado em Back-End
-- 🌱 Atualmente Aprendendo: Rust 🦀
+- 🌱 Atualmente trabalhando com Rust 🦀
 - 📫 E-Mail para phenrigoncalves@gmail.com
 
 - 🧑‍💻 [Portfólio](https://pedrohenri.com.br/) 
