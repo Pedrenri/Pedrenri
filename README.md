@@ -1,10 +1,8 @@
 # 👋 Olá, Meu Nome é Pedro Henri
+![Pedrenri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrenri&theme=gotham&hide_border=true)
 
-- 🖥️ Interessado em Tecnologia                                           
 - 👀 Focado em Back-End
 - 🌱 Atualmente trabalhando com n8n '-'
-- 📫 E-Mail para phenrigoncalves@gmail.com
-
 - 🧑‍💻 [Portfólio](https://pedrohenri.com.br/) 
 
 # 🧰 Linguagens e Ferramentas
