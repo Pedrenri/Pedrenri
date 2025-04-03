@@ -1,8 +1,7 @@
 # 👋 Olá, Meu Nome é Pedro Henri
-![Pedrenri's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pedrenri&theme=gotham&hide_border=true)
 
 - 👀 Focado em Back-End
-- 🌱 Atualmente trabalhando com fé em Deus e força nos braços
+- 🌱 Atualmente trabalhando com Rotulagem de Dados (ML)
 - 🧑‍💻 [Portfólio](https://pedrohenri.com.br/) 
 
 # 🧰 Linguagens e Ferramentas
