@@ -6,7 +6,7 @@
 
 # 🧰 Linguagens e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind,nodejs,php,laravel,py,mysql,mongodb,docker&perline=50)](https://pedrohenri.com.br/)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,tailwind,nodejs,laravel,py,mysql,mongodb,docker&perline=50)](https://pedrohenri.com.br/)
 
 ---
 
